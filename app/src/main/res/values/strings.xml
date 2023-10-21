@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="buttonSPC1">(</string>
+    <string name="buttonSPC2">)</string>
+    <string name="buttonSPC3">3.14</string>
+    <string name="button_07">7</string>
+    <string name="button_08">8</string>
+    <string name="button_09">9</string>
+    <string name="button_DIV">/</string>
+    <string name="button_04">4</string>
+    <string name="e" />
+    <string name="button_05">5</string>
+    <string name="button_06">6</string>
+    <string name="iubd">x</string>
+    <string name="button_MULTI">*</string>
+    <string name="button_01">1</string>
+    <string name="button_02">2</string>
+    <string name="button_03">3</string>
+    <string name="button_SUB">-</string>
+    <string name="button_0">0</string>
+    <string name="button_DOT">.</string>
+    <string name="button_CLR">C</string>
+    <string name="button_ADD">+</string>
+    <string name="button_EQL">=</string>
+</resources>
